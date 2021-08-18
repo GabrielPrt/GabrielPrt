@@ -1,7 +1,25 @@
 # Hi, i'm Gabriel! 💻
 
+<img src="https://codinginfinite.com/wp-content/uploads/2018/12/0KXuX_V54FKpK-wsX.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador anime">
+
 The world of programming is amazing, that's why I love being a programmer and getting to know this world every time.
 
+<p align="left"> 
+  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
+  Diga o que você está fazendo no momento, se trabalha ou estuda.
+</p>
+
+<p align="left">
+  🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
+</p>
+
+<p align="left">
+  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
+</p>
+
+<p align="left">
+  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+</p>
 </p>
 <hr>
 
@@ -23,7 +41,7 @@ The world of programming is amazing, that's why I love being a programmer and ge
   <a href="#" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>  
-
+  
 </p>
 <hr>
 
