@@ -1,29 +1,19 @@
-# Hi, i'm Gabriel! 💻
+# 💻 Hi, i'm Gabriel!
 
 <img src="https://codinginfinite.com/wp-content/uploads/2018/12/0KXuX_V54FKpK-wsX.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador anime">
 
 The world of programming is amazing, that's why I love being a programmer and getting to know this world every time.
 
-<p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
-</p>
+<h3> About me </h3>
 
-<p align="left">
- 🟡 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
-</p>
-
-<p align="left">
- 🟡 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
-</p>
-
-<p align="left">
- 🟡 Aqui vai uma mensagem para entrar em contato com você: 
-</p>
+- 🤔 &nbsp; Exploring new technologies and developing solutions.
+- 🎓 &nbsp; Graduated from college **ADMINISTRATION** na <a href="http://feata.edu.br/">FAC-FEA</a>.
+- 💼 &nbsp; Working as a **MANAGEMENT SYSTEMS ANALYST** at <a href="https://loja.colormaq.com.br/">COLORMAQ</a>
+- 🌱 &nbsp; Learning more about **HTML, CSS, JAVASCRIPT.**
 </p>
 <hr>
 
-## Connect with me:
+## 🌎 Connect with me:
 
 <p align="left">
   <a href="#" alt="Gmail">
@@ -57,7 +47,7 @@ The world of programming is amazing, that's why I love being a programmer and ge
   
 <img height="32" src="https://img-premium.flaticon.com/png/512/3098/premium/3098090.png?token=exp=1629329918~hmac=ab0dda858ad5e46ec2015b8a8f81edd4" alt="Python"/>
   
-<img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode"/>  
+<img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="VSCode"/>  
   
 <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" alt="Powerbi"/>   
 </p>  
@@ -65,12 +55,14 @@ The world of programming is amazing, that's why I love being a programmer and ge
 </p>
 <hr>
 
-## GitHub Statistics:
+## 📈 GitHub Statistics:
 
 <br/>
 
 <a href="https://github.com/GabrielPrt">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielPrt&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielPrt&theme=gruvbox&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPrt&layout=compact&langs_count=16&theme=gruvbox" />
+ 
 </a>
 
 <br/>
