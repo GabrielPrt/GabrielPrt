@@ -7,8 +7,8 @@ The world of programming is amazing, that's why I love being a programmer and ge
 <h3> About me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing solutions.
-- 🎓 &nbsp; Graduated from college **ADMINISTRATION** na <a href="http://feata.edu.br/">FAC-FEA</a>.
-- 💼 &nbsp; Working as a **MANAGEMENT SYSTEMS ANALYST** at <a href="https://loja.colormaq.com.br/">COLORMAQ</a>
+- 🎓 &nbsp; Graduated from college **ADMINISTRATION** <a href="http://feata.edu.br/">FAC-FEA</a>.
+- 💼 &nbsp; Working as a **MANAGEMENT SYSTEMS ANALYST** <a href="https://loja.colormaq.com.br/">COLORMAQ</a>
 - 🌱 &nbsp; Learning more about **HTML, CSS, JAVASCRIPT.**
 </p>
 <hr>
@@ -51,7 +51,8 @@ The world of programming is amazing, that's why I love being a programmer and ge
   
 <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" alt="Powerbi"/>
 
-<img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="Git"/>    
+<img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="Git"/>   
+  
 </p>  
 
 </p>
