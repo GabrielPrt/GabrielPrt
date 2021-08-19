@@ -16,19 +16,19 @@ The world of programming is amazing, that's why I love being a programmer and ge
 ## 🌎 Connect with me:
 
 <p align="left">
-  <a href="#" alt="Gmail">
+  <a href="mailto:gabrielps458@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=gabrielps458@gmail.com" /></a>
 
-  <a href="#" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/gabriel-prates-808580208/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-prates-808580208/" /></a>
 
   <a href="#" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 
-  <a href="#" alt="Facebook">
+  <a href="https://www.facebook.com/profile.php?id=100025625455916" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100025625455916"/></a>
 
-  <a href="#" alt="Instagram">
+  <a href="https://www.instagram.com/ga.prates/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/ga.prates/"/></a>
 </p>  
   
@@ -64,7 +64,5 @@ The world of programming is amazing, that's why I love being a programmer and ge
 <a href="https://github.com/GabrielPrt">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielPrt&theme=gruvbox&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPrt&layout=compact&langs_count=16&theme=gruvbox" />
- 
 </a>
-
 <br/>
