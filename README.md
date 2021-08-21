@@ -1,7 +1,7 @@
 # 💻 Hi, i'm Gabriel!
 
 <img src="https://codinginfinite.com/wp-content/uploads/2018/12/0KXuX_V54FKpK-wsX.gif" min-width="400px" max-width="400px" width="400px" 
-height="220px" align="right" alt="Computador anime">
+height="200px" align="right" alt="Computador anime">
 
 The world of programming is amazing, that's why I love being a programmer and getting to know this world every time.
 
