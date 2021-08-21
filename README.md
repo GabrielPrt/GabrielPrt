@@ -66,5 +66,4 @@ The world of programming is amazing, that's why I love being a programmer and ge
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielPrt&theme=gruvbox&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPrt&layout=compact&langs_count=16&theme=gruvbox" />
 </p>
-
-<br/>
+<hr>
