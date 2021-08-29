@@ -46,7 +46,7 @@ The world of programming is amazing, that's why I love being a programmer and ge
   
 <img height="32" src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png" alt="Sql"/>
   
-<img height="32" src="https://img-premium.flaticon.com/png/512/3098/premium/3098090.png?token=exp=1629329918~hmac=ab0dda858ad5e46ec2015b8a8f81edd4" alt="Python"/>
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/>
   
 <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="VSCode"/>  
   
