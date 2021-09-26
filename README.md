@@ -10,7 +10,7 @@ The world of programming is amazing, that's why I love being a programmer and ge
 - 🤔 &nbsp; Exploring new technologies and developing solutions.
 - 🎓 &nbsp; Graduated from college **ADMINISTRATION** <a href="http://feata.edu.br/">FAC-FEA</a>.
 - 💼 &nbsp; Working as a **SYSTEMS ANALYST** <a href="https://loja.colormaq.com.br/">COLORMAQ</a>
-- 🌱 &nbsp; Learning more about **HTML, CSS, JAVASCRIPT.**
+- 🌱 &nbsp; Learning more about **HTML, CSS, JAVASCRIPT, NODE e REACT.**
 </p>
 <hr>
 
